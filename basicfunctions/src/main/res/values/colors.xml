@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="black2">#333333</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="lavender">#8692f7</color>
+
+
+    <color name="bg_col1">#cd337b</color>
+    <color name="bg_col2">#F1F0F1</color>
+    <color name="bg_col3">#2a2fbc</color>
+    <color name="bg_col4">#6d71df</color>
+    <color name="text_black">#181C20</color>
+    <color name="text_black2">#1C1C1C</color>
+    <color name="text_col1">#cd337b</color>
+    <color name="text_col2">#5E5D5D</color>
+    <color name="text_col4">#AAAAAA</color>
+    <color name="text_col5">#fa7980</color>
+    <color name="text_col6">#F6F5F6</color>
+    <color name="text_col7">#fdb295</color>
+    <color name="text_col8">#DDDDDD</color>
+    <color name="text_col9">#ECEAEC</color>
+    <color name="text_col10">#657998</color>
+    <color name="tex_col5">#A5A2A2</color>
+    <color name="green4">#039E03</color>
+    <color name="green5">#D5F6D5</color>
+    <color name="bg_col5">#f3f4f6</color>
+
+
+    <color name="border_col">#AAAAAA</color>
+
+    <color name="grid_col1">#585dda</color>
+    <color name="icon_col">#AAAAAA</color>
+    <color name="grid_col2">#7f98f7</color>
+    <color name="grid_col3">#C2CDFC</color>
+    <color name="grid_col4">#FAEBBE</color>
+    <color name="yellow">#FFC107</color>
+    <color name="red4">#F8CECA</color>
+    <color name="red5">#F44336</color>
+    <color name="btn_col1">#8392ab</color>
+    <color name="btn_col2">#141727</color>
+    <color name="btn_col3">#2A59FD</color>
+    <color name="tp_col1">#45F6F4F4</color>
+
+    <color name="stage_col1">#BCD4E6</color>
+    <color name="stage_col2">#A8DADC</color>
+    <color name="stage_col3">#457B9D</color>
+    <color name="stage_col4">#1D3557</color>
+    <color name="stage_col5">#006D77</color>
+    <color name="stage_col6">#E63946</color>
+    <color name="stage_col7">#EC9A9A</color>
+    <color name="set_col1">#e1e3e6</color>
+    <color name="set_col2">#f8e7ec</color>
+    <color name="set_col3">#dff2fb</color>
+    <color name="set_col4">#f9f4e1</color>
+    <color name="set_col5">#e7f5ef</color>
+
+
+    <color name="storage_col1">#dee9f3</color>
+    <color name="storage_col1_2">#b7d8f3</color>
+    <color name="storage_col2">#f4f0df</color>
+    <color name="storage_col2_2">#f6eabb</color>
+    <color name="storage_col3">#f4e3e3</color>
+    <color name="storage_col3_2">#f5c6c6</color>
+    <color name="storage_col4">#e1efe5</color>
+    <color name="storage_col4_2">#c0e7cb</color>
+    <color name="storage_col5">#f3eadc</color>
+    <color name="storage_col5_2">#f3dab3</color>
+
+    <color name="col1">#98ec2d</color>
+    <color name="col2">#ff0080</color>
+    <color name="col3">#a8b8d8</color>
+    <color name="col4">#21d4fd</color>
+    <color name="col5">#ff667c</color>
+    <color name="col6">#9370db</color>
+
+    <color name="stage_1">#bcd4e6</color>
+    <color name="stage_2">#a8dadc</color>
+    <color name="stage_3">#457b9d</color>
+    <color name="stage_4">#1d3557</color>
+    <color name="stage_5">#006d77</color>
+    <color name="stage_6">#e63946</color>
+    <color name="stage_7">#ec9a9a</color>
+
+
+
+</resources>

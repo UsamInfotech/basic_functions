@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BasicFunctions</string>
+    <string name="skipLogin">Skip Login</string>
+    <string name="loginTo">Login to</string>
+    <string name="login">Login</string>
+    <string name="enterPass">Enter your email &amp; password</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="enterEmail">Enter Your Email</string>
+    <string name="enterPassword">Enter Your Password</string>
+    <string name="forgetPass">Forget Password?</string>
+    <string name="emailIsNotValid">Email is not Valid</string>
+    <string name="validPass">Password must be at lest 8 characters</string>
+    <string name="loginWithGoogle">Or Login With Social Media</string>
+    <string name="google">Google</string>
+    <string name="signUp">Sign up</string>
+    <string name="donTAc">Don\'t have an account?</string>
+
+</resources>
